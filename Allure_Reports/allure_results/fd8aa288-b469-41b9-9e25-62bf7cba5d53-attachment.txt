@@ -1,0 +1,8 @@
+[32mINFO    [0m TestLogin:test_login.py:32 ------------------------- Starting test login-----------------------------
+[32mINFO    [0m TestLogin:test_login.py:33 ---------------------opening the browser ----------------------------
+[32mINFO    [0m TestLogin:test_login.py:36 --------------Entering clinic -------------------------------
+[32mINFO    [0m TestLogin:test_login.py:38 -------------entering username ------------------------
+[32mINFO    [0m TestLogin:test_login.py:40 ----------------entering password ---------------------
+[32mINFO    [0m TestLogin:test_login.py:42 -------------Click on Login Button -----------------------
+[32mINFO    [0m TestLogin:test_login.py:52 ---------Testcase Login Failed ---------------
+[32mINFO    [0m TestLogin:test_login.py:53 -------------Taking screenshot -------------------------
